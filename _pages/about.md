@@ -1,7 +1,7 @@
 ---
-layout: About
-title: About
-permalink: /About/
+layout: about
+title: about
+permalink: /about/
 subtitle: Postdoctoral researcher in social evolution
 
 profile:

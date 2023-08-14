@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Activities
-permalink: /Activities/
+title: activities
+permalink: /activities/
 
 nav: true
 nav_order: 4

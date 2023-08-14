@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Publications/
-title: Publications
+permalink: /publications/
+title: publications
 description:
 nav: true
 nav_order: 1
@@ -10,12 +10,10 @@ nav_order: 1
 <div class="publications">
 
 <h1>First-authored publications</h1>
-------------------------
 
 {% bibliography -f {{ site.scholar.bibliography }} --query @*[note=T] %}
 
 <h1>Co-authored publications</h1>
---------------------
 
 {% bibliography -f {{ site.scholar.bibliography }} --query @*[note=F] %}
 
