@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: PhD
+description: The evolutionary iron law of oligarchy
+img: 
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: perret_disorganized_2020, perret_Can_2018, perret_Being_2019
 ---
 
 ## Equality, hierarchy, oligarchy: Model-driven investigation of the evolutionary origins of social organization  
