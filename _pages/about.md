@@ -3,6 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: Postdoctoral researcher in social evolution. cedric.perret.research[at]gmail.com
+nav: true
+nav_order: 1
 
 profile:
   align: right
