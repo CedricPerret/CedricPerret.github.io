@@ -10,6 +10,8 @@ nav_order: 1
 <div class="publications">
 
 # First-author publications
+<h1>Heading level 1</h1>
+## fqewfwqeaqfw 
 ------------------------
 
 {% bibliography -f {{ site.scholar.bibliography }} --query @*[note=T] %}
