@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PhD
+title: My PhD
 description: The evolutionary iron law of oligarchy
 img: 
 importance: 1

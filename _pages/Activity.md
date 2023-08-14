@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Activities
+permalink: /Activities/
 
-menu: true
-order: 4
+nav: true
+nav_order: 4
 ---
 
 ## International Conferences
