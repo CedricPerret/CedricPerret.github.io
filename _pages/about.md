@@ -34,6 +34,5 @@ You can find more details on my:
 * [Detailed CV](/assets/CV/CV_Perret.pdf)
 
 ### Academic background
-Simon Powers 
 I obtained my master degree in Ecology and Evolutionary Biology at the University of Montpellier in 2016. I did a PhD at Edinburgh Napier University under the supervision of [Simon Powers](https://www.napier.ac.uk/people/simon-powers) and [Emma Hart](https://www.napier.ac.uk/people/emma-hart) from 2016 to 2019. Then, I was a post-doctoral research associate in evolutionary dynamics and social evolution at Teeside University. I also had the chance to participate to the Santa Fe Summer school on Complex systems in 2018. 
 
