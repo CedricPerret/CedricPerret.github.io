@@ -1,7 +1,7 @@
 ---
 layout: About
 title: About
-permalink: /
+permalink: /About/
 subtitle: Postdoctoral researcher in social evolution
 
 profile:

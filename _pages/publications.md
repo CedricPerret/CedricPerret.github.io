@@ -9,14 +9,12 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-# First-author publications
-<h1>Heading level 1</h1>
-## fqewfwqeaqfw 
+<h1>First-authored publications</h1>
 ------------------------
 
 {% bibliography -f {{ site.scholar.bibliography }} --query @*[note=T] %}
 
-# Co-author publications
+<h1>Co-authored publications</h1>
 --------------------
 
 {% bibliography -f {{ site.scholar.bibliography }} --query @*[note=F] %}
