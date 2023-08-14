@@ -1,3 +1,19 @@
 "Powers":
   - firstname: ["Simon", "Simon T."]
     url: https://www.napier.ac.uk/people/simon-powers
+
+"Hart":
+  - firstname: ["Emma"]
+    url: https://en.wikipedia.org/wiki/Emma_Hart_(computer_scientist)
+
+"Currie":
+  - firstname: ["Tom", "Thomas", "Thomas E."]
+    url: https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Thomas_Currie
+
+"Han":
+  - firstname: ["The Anh"]
+    url: https://research.tees.ac.uk/en/persons/the-anh-han 
+
+"Pitt":
+  - firstname: ["Jeremy"]
+    url: https://www.imperial.ac.uk/people/j.pitt
