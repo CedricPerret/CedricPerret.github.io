@@ -295,9 +295,9 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: authors
-  group_order: ascending
-  sort_by: year
+  #group_by: note
+  #group_order: ascending
+  sort_by: note, year
   sort_order: descending
 
 badges: # Display different badges for your publications
