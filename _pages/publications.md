@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /Publications/
+title: Publications
 description:
 nav: true
 nav_order: 1
@@ -9,12 +9,12 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-The default Bibliography
+# First-author publications
 ------------------------
 
 {% bibliography -f {{ site.scholar.bibliography }} --query @*[note=T] %}
 
-Secondary References
+# Co-author publications
 --------------------
 
 {% bibliography -f {{ site.scholar.bibliography }} --query @*[note=F] %}

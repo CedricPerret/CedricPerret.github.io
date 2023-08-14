@@ -1,9 +1,9 @@
 ---
 layout: cv
-permalink: /cv/
-title: cv
+permalink: /CV/
+title: CV
 nav: true
 nav_order: 4
-cv_pdf: CV.pdf
-description: CV
+cv_pdf: CV_Perret.pdf
+description:
 ---
