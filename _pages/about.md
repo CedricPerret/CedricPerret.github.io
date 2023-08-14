@@ -3,6 +3,8 @@ layout: about
 title: about
 permalink: /about/
 subtitle: Postdoctoral researcher in social evolution
+nav: true
+nav_order: 1
 
 profile:
   align: right
