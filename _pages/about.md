@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research aims to understand the causes behind the rise or decline of political and economic inequality in human societies, using a combination of mathematical and computational models. This topic involves questions such as *what conditions are necessary versus sufficient for the emergence, mitigation, or persistence of inequality? Under what circumstances does leadership and centralized governance enhance social welfare, and when does it lead to corruption and inequality? Why did shifts in sociopolitical organisation happen in some places and not others?*
+My research aims to understand the causes behind the rise or decline of political and economic inequality in human societies, using a combination of mathematical and computational models. This topic involves questions such as *what conditions are necessary versus sufficient for the emergence, mitigation, or persistence of inequality? Under what circumstances does leadership and centralized governance enhance social welfare, and when does it lead to corruption and inequality? Why did shifts in sociopolitical organisation occur at different rates (or not at all) in different parts of the world?*
 
 To investigate these questions, I adopt an evolutionary framework that offers a distinctive perspective by considering that the social organization of a society is the product of genes and culture adapting to their environment. More specifically, my unique method is to integrate models of social and economic processes — how individuals make decisions, coordinate, and exchange — into models of long-term behavioral change, such as evolutionary models.
 
