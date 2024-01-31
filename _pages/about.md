@@ -18,15 +18,17 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a post-doctoral research associate in evolutionary dynamics and social evolution at University of Lausanne with Laurent Lehmann and Luis Santos-Pinto. 
+I am an evolutionary biologist focusing on the evolution of social behaviors and social structures in human societies. I am currently a postdoc at the University of Lausanne.
 
-My research interests lie in the evolution of social behaviour (cooperation, coordination) and social organization (hierarchy, institutions). Of particular relevance to my work is the question of *how mechanisms to maintain cooperation and coordination have changed during the transition from small human groups to large societies of unrelated individuals?*
+My research aims to understand the causes behind the rise or decline of political and economic inequality in human societies, using a combination of mathematical and computational models. This topic involves questions such as *what conditions are necessary versus sufficient for the emergence, mitigation, or persistence of inequality? Under what circumstances does leadership and centralized governance enhance social welfare, and when does it lead to corruption and inequality? Why did shifts in sociopolitical organisation happen in some places and not others?*
 
-My current projects investigate (i) the evolution of economic systems and (ii) the interactions between hierarchy and institutions. 
+To investigate these questions, I adopt an evolutionary framework that offers a distinctive perspective by considering that the social organization of a society is the product of genes and culture adapting to their environment. More specifically, my unique method is to integrate models of social and economic processes — how individuals make decisions, coordinate, and exchange — into models of long-term behavioral change, such as evolutionary models.
 
-To investigate these topics, I use models ranging from analytical models, i.e. adaptive dynamics and game theory, through to numerical simulations, i.e. individual–centered models and opinion formation models.
+During my Ph.D., I explored under which conditions beneficial leadership can naturally emerge and how it can lead to inequality. Later on, I focused on exploring in which environments subordinates can counteract despotic leaders, for instance, by overthrowing them or by migrating away. I also collaborated to test different theories on the evolution of inequality on a unique dataset on the Kofun period in Japan (coming up soon!).
 
-On a broader spectrum, I am interested by a range of topics including the evolution of cancer, cultural evolution, multilevel/kin selection, social interactions between human and machines, and complex systems so feel free to contact me!
+I am working on two projects in my current postdoc. One, I am investigating how the emergence of exchange and trade has modified individual strategies and social interactions in human societies. Two, I am exploring how the political structure of a society affects the cultural evolution of institutional rules.
+
+On a broader spectrum, I am interested in a range of topics including the evolution of cooperation, cultural evolution, the evolution of moral rules, and social interactions between humans and machines. I am also very eager to connect theoretical work with real-world data, so feel free to contact me!
 
 <!-- You can find more details on my:
 
