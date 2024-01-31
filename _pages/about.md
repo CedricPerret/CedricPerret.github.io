@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral researcher in social evolution
+subtitle: Postdoctoral researcher in social evolution at the University of Lausanne
 
 
 profile:
@@ -16,9 +16,6 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-
-I am an evolutionary biologist focusing on the evolution of social behaviors and social structures in human societies. I am currently a postdoc at the University of Lausanne.
 
 My research aims to understand the causes behind the rise or decline of political and economic inequality in human societies, using a combination of mathematical and computational models. This topic involves questions such as *what conditions are necessary versus sufficient for the emergence, mitigation, or persistence of inequality? Under what circumstances does leadership and centralized governance enhance social welfare, and when does it lead to corruption and inequality? Why did shifts in sociopolitical organisation happen in some places and not others?*
 
