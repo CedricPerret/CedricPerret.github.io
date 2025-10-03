@@ -1,40 +1,33 @@
-name: deploy
+name: Build and Deploy Jekyll with Scholar
 
 on:
   push:
     branches:
-      - master
-      - main
-  pull_request:
-    branches:
-      - master
-      - main
-  workflow_dispatch:
-
-permissions:
-  contents: write
+      - master   # whenever you push to master, rebuild site
 
 jobs:
-  deploy:
-    # available images: https://github.com/actions/runner-images#available-images
+  jekyll:
     runs-on: ubuntu-latest
-    steps:
-    - name: Checkout 🛎️
-      uses: actions/checkout@v3
-    - name: Setup Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: '3.2.2'
-        bundler-cache: true
-    - name: Install and Build 🔧
-      run: |
-        pip3 install --upgrade jupyter
-        npm install -g mermaid.cli
-        export JEKYLL_ENV=production
-        bundle exec jekyll build
-    - name: Deploy 🚀
-      if: github.event_name != 'pull_request'
-      uses: JamesIves/github-pages-deploy-action@v4
-      with:
-        folder: _site
 
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v3
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'   # GitHub Pages supports Ruby 3.1
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Build site
+        run: bundle exec jekyll build -d _site
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages
