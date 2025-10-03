@@ -11,7 +11,7 @@ nav_order: 3
 
 Over the years I accumulated code building different evolutionary models.  I decided to bring it all together into a clean Julia package for reusability and to make it useful for other researchers.  Go check it out! (All details are in the README.)
 
-**[JuliassicPark.jl](https://github.com/CedricPerret/JuliassicPark.jl)** – a Julia package for simulating evolutionary models with customizable fitness functions, mutation, and reproduction schemes.  
+**[JuliassicPark.jl](https://github.com/CedricPerret/JuliassicPark)** – a Julia package for simulating evolutionary models with customizable fitness functions, mutation, and reproduction schemes.  
 
 ---
 
