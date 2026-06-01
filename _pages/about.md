@@ -11,21 +11,36 @@ profile:
   image_circular: false # crops the image to make it circular
   address: cedric.perret.research[at]gmail.com
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research aims to understand the causes behind the rise or decline of political and economic inequality in human societies, using a combination of mathematical and computational models. This topic involves questions such as *what conditions are necessary versus sufficient for the emergence, mitigation, or persistence of inequality? Under what circumstances does leadership and centralized governance enhance social welfare, and when does it lead to corruption and inequality? Why did shifts in sociopolitical organisation occur at different rates (or not at all) in different parts of the world?*
+I'm a postdoctoral researcher working across the departments of evolutionary biology and economics at the University of Lausanne. My research asks how a society's environment shapes the way it is organised, and how the way it is organised, in turn, shapes what evolves within the society, both its culture and its people.
 
-To investigate these questions, I adopt an evolutionary framework that offers a distinctive perspective by considering that the social organization of a society is the product of genes and culture adapting to their environment. More specifically, my unique method is to integrate models of social and economic processes — how individuals make decisions, coordinate, and exchange — into models of long-term behavioral change, such as evolutionary models.
+Some of the questions I work(ed) on:
+- Why some human groups stay small and egalitarian while others grow large, unequal, and ruled by a few?
+- And how does being governed by a few, or by many, shape the rules and institutions a society develops?
+- What environment leads people to specialise in different kinds of work?
+- How do specialisation shape a population's genetic diversity?
 
-During my Ph.D., I explored under which conditions beneficial leadership can naturally emerge and how it can lead to inequality. Later on, I focused on exploring in which environments subordinates can counteract despotic leaders, for instance, by overthrowing them or by migrating away. I also collaborated to test different theories on the evolution of inequality on a unique dataset on the Kofun period in Japan (coming up soon!).
+- Why some human groups stay small and egalitarian while others grow large, unequal, and ruled by a few?
+- What environment leads people to specialise in different kinds of work?
+and reversely
+- And how does being governed by a few, or by many, shape the rules and institutions a society develops?
+- How do specialisation shape a population's genetic diversity?
 
-I am working on two projects in my current postdoc. One, I am investigating how the emergence of exchange and trade has modified individual strategies and social interactions in human societies. Two, I am exploring how the political structure of a society affects the cultural evolution of institutional rules.
+Some of the questions that drive my work:
+- Why do some human groups stay small and equal while others grow large, unequal, and ruled by a few?
+- What environment leads people to specialise into different kinds of work ?
+- And how does the way a society is organised then shape what evolves within it — its rules and institutions, and even the genetic make-up of its people?
 
-On a broader spectrum, I am interested in a range of topics including the evolution of cooperation, cultural evolution, the evolution of moral rules, and social interactions between humans and machines. I am also very eager to connect theoretical work with real-world data, so feel free to contact me!
+
+I completed my PhD on the rise of social hierarchy with Simon Powers, followed by postdocs on the evolution of moral rules (with The-Anh Han) and competing theories of inequality (with Thomas Currie). I'm now a postdoc with Laurent Lehmann at the University of Lausanne, where my research focuses on the division of labour and the evolution of institutions. I'm always glad to exchange across disciplines and to connect theory with real-world data — so if you'd like to collaborate, get in touch.
+
+You can find my work on Google Scholar and ResearchGate below. I also maintain a Julia package for modelling evolution — feel free to take a look.
+
 
 <!-- You can find more details on my:
 

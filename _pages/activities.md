@@ -9,7 +9,12 @@ nav_order: 4
 
 ## International Conferences
 
+**Organisation:**
+- **FRESH 2024**: Annual conference of the French Network for the Evolutionary Study of Humans - *Lausanne, France*
+
 **Oral presentation:**
+- **HBES 2026**: Annual conference of the Human Behavior and Evolution Society - *Rabat, Morocco*
+- **CES 2026**: Annual conference of the Cultural Evolution Society - *Rabat, Morocco*
 - **FRESH 2023**: Annual conference of the French Network for the Evolutionary Study of Humans - *Paris, France*
 - **EHBEA 2023**: Annual conference of the European Human Behaviour and Evolution Association - *London, UK*
 - **CES 2022**: Annual conference of the Cultural Evolution Society - *Aarhus, Danemark*
@@ -22,6 +27,7 @@ nav_order: 4
 **Participation:**
 - **ESEB 2017**: Congress of the European Society for Evolutionary Biology - *Groningen, Netherlands*
 - **PPSN 2016**: 14th International Conference on Parallel Problem Solving from Nature - *Edinburgh, UK*
+
 
 ## Workshops
 **Lead Coordinator:**
