@@ -31,9 +31,9 @@ Some of the questions that I work on:
 - What environment leads people to specialise into different kinds of work ?
 - And how does the way a society is organised then shape what evolves within it — its rules and institutions, and even the genetic make-up of its people?
 
-I completed my PhD on the rise of social hierarchy with Simon Powers, followed by postdocs on the evolution of moral rules (with The-Anh Han) and competing theories of inequality (with Thomas Currie). I'm now a postdoc with Laurent Lehmann at the University of Lausanne, where my research focuses on the division of labour and the evolution of institutions. I'm always glad to exchange across disciplines and to connect theory with real-world data — so if you'd like to collaborate, get in touch.
+I completed my PhD on the rise of social hierarchy with Simon Powers, followed by postdocs on the evolution of moral rules (with The-Anh Han) and competing theories of inequality (with Thomas Currie). I'm now a postdoc with Laurent Lehmann at the University of Lausanne, where my research focuses on the division of labour and the evolution of institutions. I'm always glad to exchange across disciplines and to connect theory with real-world data, so if you'd like to collaborate, get in touch.
 
-You can find my work on Google Scholar and ResearchGate below. I also maintain a Julia package for modelling evolution — feel free to take a look.
+You can find my work on Google Scholar and ResearchGate below. I also maintain a Julia package for modelling evolution, feel free to take a look.
 
 
 <!-- You can find more details on my:
