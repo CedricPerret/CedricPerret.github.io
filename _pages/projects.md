@@ -9,16 +9,13 @@ display_categories: [work]
 horizontal: false
 ---
 
-# Research
-
-
 I study how societies' environment shapes the way they are organised and how that organisation shapes their long-term biological and cultural evolution.
 
 To investigate these questions, my unique method is to integrate models of social and economic processes — how individuals make decisions, coordinate, and exchange — into models of long-term behavioural change, such as biological and cultural evolutionary models. My work clusters into three main themes.
 
 ## Origin and evolution of social inequality
 
-During my PhD, I explored the conditions under which beneficial leadership can emerge on its own ([2020](https://royalsocietypublishing.org/rspb/article/287/1928/20200693/85647), [2023](https://royalsocietypublishing.org/rstb/article/378/1883/20220303/42705)) — by lowering the cost of collective decision-making [(2022)](https://www.sciencedirect.com/science/article/pii/S0022519322000923) — and how it can tip into inequality [(2018)](https://direct.mit.edu/isal/proceedings-pdf/alife2018/30/288/1904974/isal_a_00058.pdf). I later looked more broadly at ways the environment can drive inequality: I identified geographical settings in which subordinates can or cannot migrate away from despotic leaders [(2023)](https://royalsocietypublishing.org/rstb/article/378/1883/20220291/42770), and how growing group size erodes their capacity to collectively overthrow despotic leaders (under revision).
+During my PhD, I explored the conditions under which beneficial leadership can emerge on its own ([2020](https://royalsocietypublishing.org/rspb/article/287/1928/20200693/85647), [2023](https://royalsocietypublishing.org/rstb/article/378/1883/20220303/42705)) when leaders reduce the cost of collective decision-making [(2022)](https://www.sciencedirect.com/science/article/pii/S0022519322000923), and how hierarchy can tip into inequality [(2018)](https://direct.mit.edu/isal/proceedings-pdf/alife2018/30/288/1904974/isal_a_00058.pdf). I later looked more broadly at ways the environment can drive inequality: I identified geographical settings in which subordinates can or cannot migrate away from despotic leaders [(2023)](https://royalsocietypublishing.org/rstb/article/378/1883/20220291/42770), and how growing group size erodes their capacity to collectively overthrow despotic leaders (under revision).
 
 Most recently, I have been developing a model that places several competing theories of inequality on common ground, so that explanations usually stated in incompatible terms can be compared directly. Beyond clarifying the theory, it is meant to give archaeologists a tool for interpreting the material record, and we aim to test it against data from the Kofun period in Japan.
 
@@ -28,7 +25,7 @@ Another line of work concerns the division of labour and economic specialisation
 
 ## Cultural evolution of institutions
 
-A key question is whether institutions and rules can evolve the way technologies do, becoming better over time even when no one understands why they work. I built a general model in which preferences for a rule spread by being copied from successful individuals, as in cultural evolution, and asked when this improves a group's institutions. It can, but not always: whether it does depends on how the group makes its decisions, and even on its size (under review). For instance, contrary to the familiar result that larger populations adapt better, I find that larger groups can settle on worse rules, or lose good ones. This opens a wider programme I now want to pursue: mapping which features of social organisation help institutions improve and which hold them back, beginning with the role of different political systems.
+A key question is whether institutions and rules can evolve the way technologies do, becoming better over time even when no one understands why they work. I generalise existing models in which preferences for a rule spread by being copied from successful individuals, as in cultural evolution, and asked when this improves a group's rule. I show that it can, but not always: whether it does depends on how the group makes its decisions, and even on its size (under review). For instance, contrary to the familiar result that larger populations adapt better, I find that larger groups can settle on worse rules, or lose good ones. This opens a wider programme I now want to pursue: mapping which features of social organisation help institutions improve and which hold them back, beginning with the role of different political systems.
 
 ## Other and earlier work
 
